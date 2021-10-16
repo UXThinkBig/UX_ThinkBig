@@ -1,4 +1,3 @@
-# UX_ThinkBig
 
 <img width="1679" alt="스크린샷 2021-10-16 오후 6 05 47" src="https://user-images.githubusercontent.com/60260284/137581640-1c46c172-2035-4632-8e00-5b7e40ef20c0.png">
      
