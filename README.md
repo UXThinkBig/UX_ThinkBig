@@ -83,18 +83,18 @@
 
 |주제|제목|작성자|
 |:------:|:---:|:---:|
-|TextField & Data Entry | [💬TextField & Data Entry](https://tame-trawler-abc.notion.site/TextField-Data-Entry-e73c6a99cd4b45098c6dc38ca7ad94f0)| 황지은
-|TextField & Data Entry  | [🔢살살합시다, Text Fields와 Data Entry](https://tame-trawler-abc.notion.site/Text-Fields-Data-Entry-a5c99f5bf6b04e24aabeb9f95eee87a7)| 김태현
-|TextField & Data Entry  | [🍽Text Fields 근데 이제 Data Entry를 곁들인](https://tame-trawler-abc.notion.site/Text-Fields-Data-Entry-3b8a3ecb200047c89e64fe5413801f3c)| 김소연
+|TextField & Data Entry | [💬TextField & Data Entry](https://taekki-ios-wiki.notion.site/TextField-Data-Entry-e73c6a99cd4b45098c6dc38ca7ad94f0)| 황지은
+|TextField & Data Entry  | [🔢살살합시다, Text Fields와 Data Entry](https://taekki-ios-wiki.notion.site/Text-Fields-Data-Entry-a5c99f5bf6b04e24aabeb9f95eee87a7)| 김태현
+|TextField & Data Entry  | [🍽Text Fields 근데 이제 Data Entry를 곁들인](https://taekki-ios-wiki.notion.site/Text-Fields-Data-Entry-3b8a3ecb200047c89e64fe5413801f3c)| 김소연
 
 
 ![studyMainBG2](https://user-images.githubusercontent.com/60260284/137583020-2447c163-1152-464f-9178-0a71e30eb078.png)
 
 |주제|제목|작성자|
 |:------:|:---:|:---:|
-|Search Bar | [🔎서치바란 뭘까... 알아보자...](https://tame-trawler-abc.notion.site/6e9264d6106344898bc9cc34618bf318)| 송지훈
-|Search Bar | [❓Search Bar인데 비밀입니다 프라이버시 존중해주세요](https://tame-trawler-abc.notion.site/Search-Bar-4f733bb616694dd6b6d409a5ebbeb57f)| 양수빈
-|Search Bar | [😡서치바 ㅋㅋ 딱대 ㅋㅋ](https://tame-trawler-abc.notion.site/3ff9698e66c849a6ae2807c492afb90f)| 김지수
+|Search Bar | [🔎서치바란 뭘까... 알아보자...](https://taekki-ios-wiki.notion.site/6e9264d6106344898bc9cc34618bf318)| 송지훈
+|Search Bar | [❓Search Bar인데 비밀입니다 프라이버시 존중해주세요](https://taekki-ios-wiki.notion.site/Search-Bar-4f733bb616694dd6b6d409a5ebbeb57f)| 양수빈
+|Search Bar | [😡서치바 ㅋㅋ 딱대 ㅋㅋ](https://taekki-ios-wiki.notion.site/3ff9698e66c849a6ae2807c492afb90f)| 김지수
 
 
 
@@ -102,8 +102,8 @@
 
 |주제|제목|작성자|
 |:------:|:---:|:---:|
-|Button | [🚀ㅋ..](https://tame-trawler-abc.notion.site/884b342c49014fb79ff03e0b731b76b0)| 김윤서
-|Button | [🩴풀 다운 풀 업 팝 업 팝 다운 네이스 ~](https://tame-trawler-abc.notion.site/2a0229392a0e4374953ba0f8f3a98c65)| 김승찬
-|Button | [☕️초코라떼 잘못 주문해서 실수로 커피마심](https://tame-trawler-abc.notion.site/cb2e1bba053b4960a65b461dd2acf2b0)| 최이준
+|Button | [🚀ㅋ..](https://taekki-ios-wiki.notion.site/884b342c49014fb79ff03e0b731b76b0)| 김윤서
+|Button | [🩴풀 다운 풀 업 팝 업 팝 다운 네이스 ~](https://taekki-ios-wiki.notion.site/2a0229392a0e4374953ba0f8f3a98c65)| 김승찬
+|Button | [☕️초코라떼 잘못 주문해서 실수로 커피마심](https://taekki-ios-wiki.notion.site/cb2e1bba053b4960a65b461dd2acf2b0)| 최이준
 
 
